@@ -1,3 +1,7 @@
+# 0.3.1
+
+- Fix `strip` option throwing error
+
 # 0.3.0
 
 - Enable file mode preservation
